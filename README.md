@@ -89,7 +89,7 @@ See also the base container [README.md](https://github.com/jlesage/docker-baseim
 ## Discussion and Support
 
 - Open a Github issue
-- [Unraid Forum](https://forums.unraid.net/topic/117021-support-smartphonelover-vorta-gui-for-borg-backup/)
+- [Unraid Forum](https://forums.unraid.net/topic/186171-support-b3rrytechs-template-repository/)
 
 ## License and Credits
 
